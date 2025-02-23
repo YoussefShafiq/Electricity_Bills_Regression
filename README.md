@@ -1,1 +1,1 @@
-# Solar_Enargy_Generation_NN
+# Electricity Bills Regression model
